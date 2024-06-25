@@ -1,0 +1,3 @@
+!#/usr/bin/env bash
+#using ssh to connect to a server
+ubuntu@18.206.198.78
