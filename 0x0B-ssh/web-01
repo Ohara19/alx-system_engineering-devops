@@ -6,4 +6,4 @@ eval $("ssh agent")
 
 ssh add ~/.ssh/schhol
 
-ssh ubuntu@54.152.234.24
+ssh ubuntu@54.89.26.212
